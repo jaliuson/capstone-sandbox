@@ -1,2 +1,2 @@
-# capstone-sandbox
-Repo for trying new things or assessing feasiblity of different components for capstone project
+# EverFit Sandbox 
+This repo is for trying new things and assessing the feasibility of different components for my capstone project
